@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/wisdom-tree-analytics/static/css/main.1b24eca4.css",
+    "main.js": "/wisdom-tree-analytics/static/js/main.7e4734a4.js",
+    "static/media/approach.jpg": "/wisdom-tree-analytics/static/media/approach.a8bbcfb16147cdfceada.jpg",
+    "static/media/adaptability.jpg": "/wisdom-tree-analytics/static/media/adaptability.725cea188a6e20a1e156.jpg",
+    "static/media/collaboration.jpg": "/wisdom-tree-analytics/static/media/collaboration.e019f656837b493abebc.jpg",
+    "static/media/change.jpg": "/wisdom-tree-analytics/static/media/change.003e5c133287a6619722.jpg",
+    "static/media/data driven.jpg": "/wisdom-tree-analytics/static/media/data driven.9bac10b94a0fc57f26b6.jpg",
+    "static/media/objective.jpg": "/wisdom-tree-analytics/static/media/objective.df488b1daa2486cde009.jpg",
+    "static/media/bg2.jpg": "/wisdom-tree-analytics/static/media/bg2.83e79456de7aa63ae283.jpg",
+    "static/media/image1.png": "/wisdom-tree-analytics/static/media/image1.46a0b9d6cea708ec4b33.png",
+    "index.html": "/wisdom-tree-analytics/index.html",
+    "main.1b24eca4.css.map": "/wisdom-tree-analytics/static/css/main.1b24eca4.css.map",
+    "main.7e4734a4.js.map": "/wisdom-tree-analytics/static/js/main.7e4734a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b24eca4.css",
+    "static/js/main.7e4734a4.js"
+  ]
+}
